@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @QuintenC08
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning Python with the VEX V5 extension
--  Member of 17821T for VEX V5
+
 
 
 <!---
