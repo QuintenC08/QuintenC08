@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @QuintenC08
 - 👀 I’m interested in robotics
+- learning C++
 
 
 
